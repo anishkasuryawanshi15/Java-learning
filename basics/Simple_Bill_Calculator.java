@@ -14,5 +14,7 @@ public class Simple_Bill_Calculator {
         float tax = total + (0.18f * total);
 
         System.out.println("Bill after 18% tax: " + tax);
+
+        sc.close();
     }
 }
