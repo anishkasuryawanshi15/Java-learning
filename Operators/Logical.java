@@ -1,3 +1,4 @@
+// Used Logical Operators to check eligibility for admission and scholarship based on age and marks
 package Operators;
 import java.util.*;
 public class Logical{
